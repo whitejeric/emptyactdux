@@ -1,8 +1,9 @@
-import React from 'react'
+import React from 'react';
+import TempContainer from '../containers/container-temp';
 
 const App = () => (
   <div>
-    SSS
+    <TempContainer />
   </div>
 )
 
